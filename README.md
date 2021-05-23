@@ -1,0 +1,2 @@
+# Hackintosh-OpenCore-Ryzen
+OpenCoreでHackintosh
