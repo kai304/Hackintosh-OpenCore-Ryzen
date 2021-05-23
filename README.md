@@ -30,18 +30,18 @@
 * https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-CPUR.aml
 * https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-EC-USBX-DESKTOP.aml
 
-* **Firmware Drivers*
+* **Firmware Drivers**
 * https://github.com/acidanthera/OcBinaryData/blob/master/Drivers/HfsPlus.efi
 
-* **Application*
+* **Application**
 * https://github.com/corpnewt/ProperTree
 * https://github.com/corpnewt/GenSMBIOS
 * https://github.com/acidanthera/dmidecode/releases
 
-* **Opencanopy*
+* **Opencanopy**
 * https://github.com/lichongjia/OpenCanopy-Icons/releases/
 
-* **Pathches*
+* **Pathches**
 * https://github.com/AMD-OSX/AMD_Vanilla/tree/opencore/17h_19h
 * https://github.com/dortania/OpenCore-Post-Install/blob/master/extra-files/CustomMemory.plist.zip
 
